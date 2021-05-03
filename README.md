@@ -6,10 +6,10 @@
 
 **👨 About Me:**
 
--   👨🏻‍💻 I’m a web developer specialized in building web applications using Javascript and PHP.
--   🏫 I'm currently studying Information Systems at Universitas Internasional Batam (2018-2022)
--   📝 I also like to write articles for my blog on [Medium](https://wisuja.medium.com)
--   📝 [Download my resume](https://drive.google.com/file/d/1An7sPVvYiX72mzHCsdjZ2GZmrdrZ9Esb/view?usp=sharing).
+- 👨🏻‍💻 I’m a web developer specialized in building web applications using Javascript and PHP.
+- 🏫 I'm currently studying Information Systems at Universitas Internasional Batam (2018-2022)
+- 📝 I also like to write articles for my blog on [Medium](https://wisuja.medium.com)
+- 📝 [Download my resume](https://drive.google.com/file/d/1An7sPVvYiX72mzHCsdjZ2GZmrdrZ9Esb/view?usp=sharing).
 
 **👨🏻‍💻 Tech Stacks:**
 
@@ -51,6 +51,6 @@
 ### 📈 My GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wisuja&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisuja&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=wisuja&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisuja&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
