@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/xT4uQF7h39mlsF5czK/giphy.gif" width="100%">
+<img src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif" style="text-align:center">
 
 ### Hi there, I'm <a href="https://wisuja.github.io" target="_blank">William</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
