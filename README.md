@@ -9,7 +9,6 @@
 - 👨🏻‍💻 I’m a web developer specialized in building web applications using Javascript and PHP.
 - 🏫 I'm currently studying Information Systems at Universitas Internasional Batam (2018-2022)
 - 📝 I also like to write articles for my blog on [Medium](https://wisuja.medium.com)
-- 📝 [Download my resume](https://drive.google.com/file/d/1An7sPVvYiX72mzHCsdjZ2GZmrdrZ9Esb/view?usp=sharing).
 
 **👨🏻‍💻 Tech Stacks:**
 
@@ -45,6 +44,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-05122A?style=rounded-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wisuja)
 [![Medium Badge](https://img.shields.io/badge/Medium-05122A.svg?&style=for-square&logo=medium&logoColor=white)](https://wisuja.medium.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-05122A?style=rounded-square&logo=Instagram&logoColor=white)](https://instagram.com/wisuja/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-05122A?style=rounded-square&logo=Twitter&logoColor=white)](https://twitter.com/wisuja_/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-05122A?style=rounded-square&logo=Facebook&logoColor=white)](https://facebook.com/wisuja.dev/)
 
 </p>
 
