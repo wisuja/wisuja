@@ -4,8 +4,8 @@
 
 **👨 About Me:**
 
-- 👨🏻‍💻 I’m a web developer specialized in building web applications using Javascript and PHP.
-- 🏫 I'm currently studying Information Systems at Universitas Internasional Batam (2018-2022)
+- 👨🏻‍💻 I’m a web developer specialized in building web applications using Javascript and PHP Frameworks.
+- 👨‍🎓 I'm an Information Systems Graduate with an Outstanding Student Awardee
 - 📝 I also like to write articles for my blog on [Medium](https://wisuja.medium.com)
 
 **👨🏻‍💻 Tech Stacks:**
@@ -14,6 +14,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
