@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=wisuja&color=red)
 
-### I'm a Fullstack Web Developer from Indonesia.
+### I'm a Fullstack Web Developer with 4+ YOE from Indonesia .
 
 I mainly handling development of a functional and modern web application based on client requirements.
 
